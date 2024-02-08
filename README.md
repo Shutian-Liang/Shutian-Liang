@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning math and machine learning.
 - 📫 How to reach me: Shutianpku@outlook.com.
-- 😄 Pronouns: What I cannot create，I don't understand it.
+- 😄 Pronouns: What I cannot create, I don't understand it.
 
 ![](https://github-readme-stats.vercel.app/api?username=Shutian-Liang&show_icons=true&theme=transparent)
 
